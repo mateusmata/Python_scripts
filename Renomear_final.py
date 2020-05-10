@@ -1,6 +1,6 @@
 import os
 
-os.chdir('D:\Midia\Serie\The Office (US)\Season 1 - Copia') #pasta com arquivos que sofrerão alteração
+os.chdir('D:\Midia\Serie\The Office (US)\Season.7') #pasta com arquivos que sofrerão alteração
 
 print (os.getcwd())
 
